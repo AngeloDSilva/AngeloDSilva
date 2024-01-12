@@ -6,7 +6,6 @@
 <!-- Presentation -->
 <p>
   - 🌱 Estudante de Análise e desenvolvimento de sistemas
-
   - 🔭 Estou em busca da minha primeira oportunidade de emprego.
 </p>
 
